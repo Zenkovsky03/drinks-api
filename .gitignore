@@ -9,7 +9,9 @@ media
 # Backup files #
 *.bak
 
-.idea
+# IntelliJ IDEA
+.idea/
+*.iml
 
 # If you are using PyCharm #
 # User-specific stuff
